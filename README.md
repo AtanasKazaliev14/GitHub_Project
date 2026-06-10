@@ -19,7 +19,7 @@ Artificial Intelligence is also playing an important role in scientific research
 Despite its many advantages, AI also presents challenges. Some people worry that automation may replace certain jobs, while others are concerned about privacy and the ethical use of data. For this reason, it is important to develop AI responsibly and ensure that it benefits society as a whole.
 
 As technology continues to advance, AI is expected to play an even more important role in our daily lives. From smart homes and self-driving cars to advanced healthcare systems, artificial intelligence has the potential to transform the future and improve the quality of life for millions of people around the world.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Conclusion
 
