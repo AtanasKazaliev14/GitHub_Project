@@ -1,4 +1,4 @@
-## Artificial Intelligence – The Technology of the Future
+# Artificial Intelligence – The Technology of the Future
 
 ---
 
