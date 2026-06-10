@@ -18,3 +18,7 @@ Artificial Intelligence is used in many areas such as healthcare, education, and
 
 Many companies are implementing AI technologies to improve their products and services.
 
+
+\## Conclusion
+
+Technology is developing rapidly and will continue to change the way we live. It is important for people to adapt to new innovations and use technology wisely.
